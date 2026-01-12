@@ -1,0 +1,21 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .circle {
+        fill: none;
+        stroke: #00b7b2;
+        stroke-width: 4;
+      }
+      .text {
+        font-family: "Nunito", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 40px;
+        font-weight: 400;
+        fill: #0a2342;
+      }
+    </style>
+  </defs>
+  <circle class="circle" cx="60" cy="60" r="50"/>
+  <text class="text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    CxB
+  </text>
+</svg>
